@@ -1,0 +1,3 @@
+python-telegram-bot
+pexpect
+python-dotenv

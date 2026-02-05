@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+hello.html
+test.html
+EOF && git add .gitignore && git commit -m "Clean up repository: remove venv and unnecessary files" && git push origin main -f
